@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">CustomView</string>
+    <array name="itemArr">
+        <item>绘图机制</item>
+        <item>基础篇-坐标系</item>
+        <item>基础篇-角度.弧度</item>
+        <item>基础篇-颜色</item>
+        <item>进阶篇-分类.流程</item>
+        <item>进阶篇-基本图形</item>
+        <item>进阶篇-画布操作</item>
+        <item>进阶篇-图片文字</item>
+        <item>进阶篇-基本操作</item>
+        <item>进阶篇-贝塞尔</item>
+        <item>进阶篇-完结</item>
+        <item>进阶篇-玩出花样</item>
+        <item>进阶篇-Matrix(原理)</item>
+        <item>进阶篇-Matrix(详解)</item>
+        <item>进阶篇-Matrix(详解)</item>
+        <item>进阶篇-Matrix(Camera)</item>
+        <item>进阶篇-事件分发(原理)</item>
+        <item>进阶篇-事件分发(详解)</item>
+        <item>进阶篇-MotionEvent</item>
+        <item>进阶篇-特殊事件处理</item>
+
+    </array>
+</resources>
